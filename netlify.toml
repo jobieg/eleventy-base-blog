@@ -2,7 +2,7 @@
   publish = "_site"
   command = "DEBUG=* eleventy"
   
-  [[redirects]]
+  [redirects]
   from = "/netlify/anything"
   to = "https://www.google.com/search?q=anything"
   status = 301
