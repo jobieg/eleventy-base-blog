@@ -10,6 +10,15 @@ module.exports = function(eleventyConfig) {
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyCongif.addPassthroughCopy("_redirects");
+  
+  return {
+    dir: {
+      input: 'src',
+      output: 'dist',
+    },
+    passthroughFileCopy: true,
+  };
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
