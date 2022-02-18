@@ -3,7 +3,7 @@ title: This is my first post about pinball!
 description: This is a post on Jobie's Pinball World about playing pinball in Croatia.
 date: 2020-04-21
 tags:
-  - another tag
+  - Croatia
 layout: layouts/post.njk
 ---
 Last year while travelling around Dubrovnik, Croatia I finally found two pinball machines near the coast at Uvala Lapad Beach about 3.7km away from the Walls of Dubrovnik.
