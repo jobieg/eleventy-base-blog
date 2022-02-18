@@ -1,7 +1,7 @@
 ---
 title: This is my first post about pinball!
 description: This is a post on Jobie's Pinball World about playing pinball in Croatia.
-date: 2020-04-21
+date: 2021-04-21
 tags:
   - Croatia
 layout: layouts/post.njk
