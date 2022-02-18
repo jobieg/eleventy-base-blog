@@ -1,29 +1,11 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: Playing in weekly tournament at Level1 barcade in Gilbert, Arizona.
+description: Stern Pinball Army weekly league
+date: 2022-01-13
 tags:
-  - second tag
-  - posts with two tags
+  - Gilbert, Arizona
+  - Level1
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
-
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+It is rare that I get my picture taken while playing pinball, so I was very exicted to see this one was taken while I was playing in the weekly tournaments at Level1 barcade in Gilbert, Arizona.  We have fun driving there every Thursday night to meet with friends, have a few drinks, and play some pinball. Godzilla a great pin to play and I continue to get better at it with each play.
+<img src="/img/Screenshot_20211213-075744_Instagram.jpg" alt="Jobie playing Godzilla pinball machine at Level1 barcade." style="width:500px;height:600px;">
