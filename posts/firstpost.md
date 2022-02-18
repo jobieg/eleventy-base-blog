@@ -1,26 +1,14 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: This is my first post about pinball!
+description: This is a post on Jobie's Pinball World about playing pinball in Croatia.
+date: 2020-04-21
 tags:
   - another tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Last year while travelling around Dubrovnik, Croatia I finally found two pinball machines near the coast at Uvala Lapad Beach about 3.7km away from the Walls of Dubrovnik.
+<img src="/img/20210530_145023.jpg" alt="Lovely coastline along Ulava Lapad Beach, Croatia." style="width:500px;height:600px;">
+I found a Shrek and Rolling Stones pinball machine at a little tourist stand that also had many coin operated rides for kids. When I first walked past this place these pinball machines were coverd with a simple tarp. I noticed them after we took a lovely stroll along the coast. 
+<img src="/img/20210530_160839.jpg" alt="Shrek and Rolling Stones pinball machine near Ulava Lapad Beach, Croatia." style="width:500px;height:600px;">
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+These machines were not is great shape. Many of the scoops or pop-ups were not functioning. My friend and pinball collector did tell me that Shrek is fairly rare with about 600 being produced. The value can range from $4600-$5400. I do wonder if shipping this from Croatia would be worth having a fun pin like this. The call outs while playing were very fun for any Shrek fan. I also played Rolling Stones, but it is not as fun and had more issues going on.
