@@ -12,3 +12,4 @@ I found a Shrek and Rolling Stones pinball machine at a little tourist stand tha
 <img src="/img/20210530_160839.jpg" alt="Shrek and Rolling Stones pinball machine near Ulava Lapad Beach, Croatia." style="width:500px;height:600px;">
 
 These machines were not in great shape. Many of the scoops or pop-ups were not functioning. My friend and pinball collector did tell me that Shrek is fairly rare with about 600 being produced. The value can range from $4600-$5400. I do wonder if shipping this from Croatia would be worth having a fun pin like this. The call outs while playing were very fun for any Shrek fan. I also played Rolling Stones, but it is not as fun and had more issues going on.
+ 5 kuna is about 75 cents.
