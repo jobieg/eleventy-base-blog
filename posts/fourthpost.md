@@ -1,15 +1,11 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
-tags: second tag
+title: First pinball festival!!
+description: Competed in and enjoyed a 3 day pinball festival.
+date: 2022-02-05
+tags: Pinball Festival
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+During the weekend of February 4-6 2022 in Mesa, Arizona Starfighters Arcade hosted the first Starfighters Pinball Festival. They had over 200 pinball machines to play and 3 days of competition. On Friday, I qualified to be in the A division. There was A, B, and C division to separate the 108 players into grouops of 36.  I had confidence that I could make it into the top division, but I knew I would end up against the best. They even had world champion Bowen Kirins in attendance! No way I was beating him! 
+<br>
+At the end of day 2, I was 2nd to last in the A division. Only the top 16 in each division would continue on to the Finals on Sunday. It was a great time of playing new games and competing on another level with locals and people from various States.
 
