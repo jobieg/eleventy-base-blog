@@ -3,6 +3,6 @@
   command = "DEBUG=* eleventy"
   
 [[redirects]]
-  from = "/netlify/anything"
+  from = "/posts/*"
   to = "https://www.google.com/search?q=anything"
   status = 301
